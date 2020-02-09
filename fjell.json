@@ -1,41 +1,100 @@
 {
-  "squadName": "Super hero squad",
-  "homeTown": "Metro City",
-  "formed": 2016,
-  "secretBase": "Super tower",
-  "active": true,
-  "members": [
+
+  "Fjell": [
     {
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+      "navn": "Fjellsjøkampen",
+      "hoyde": 812,
+      "fylke": "Akershus"
     },
     {
-      "name": "Madame Uppercut",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
-      "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
+      "navn": "Folarskardnuten",
+      "hoyde": 1933,
+      "fylke": "Buskerud"
     },
     {
-      "name": "Eternal Flame",
-      "age": 1000000,
-      "secretIdentity": "Unknown",
-      "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+      "navn": "Galdhøpiggen",
+      "hoyde": 2372,
+      "fylke": "Oppland"
+    },
+    {
+      "navn": "Gaustatoppen",
+      "hoyde": 1883,
+      "fylke": "Telemark"
+    },
+    {
+      "navn": "Hardangerjøkulen",
+      "hoyde": 1861,
+      "fylke": "Hordaland"
+    },
+    {
+      "navn": "Jetnamsklumpen",
+      "hoyde": 1512,
+      "fylke": "Nord-Trøndelag"
+    },
+    {
+      "navn": "Jiehkkevárri",
+      "hoyde": 1834,
+      "fylke": "Troms"
+    },
+    {
+      "navn": "Kjerkeberget",
+      "hoyde": 630,
+      "fylke": "Oslo"
+    },
+    {
+      "navn": "Oksskolten",
+      "hoyde": 1915,
+      "fylke": "Nordland"
+    },
+    {
+      "navn": "Pyttegga",
+      "hoyde": 1999,
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "navn": "Rondslottet",
+      "hoyde": 2178,
+      "fylke": "Hedemark"
+    },
+    {
+      "navn": "Slavasshøgda",
+      "hoyde": 336,
+      "fylke": "Østfold"
+    },
+    {
+      "navn": "Store Skagastølstinden",
+      "hoyde": 2405,
+      "fylke": "Sogn og Fjordane"
+    },
+    {
+      "navn": "Storskrymten",
+      "hoyde": 1985,
+      "fylke": "Sør-Trøndelag"
+    },
+    {
+      "navn": "Sæbyggjenuten",
+      "hoyde": 1507,
+      "fylke": "Aust-Agder"
+    },
+    {
+      "navn": "Urdalsknuten",
+      "hoyde": 1433,
+      "fylke": "Vest-Agder"
+    },
+    {
+      "navn": "Vassdalseggi",
+      "hoyde": 1658,
+      "fylke": "Rogaland"
+    },
+    {
+      "navn": "Vestfjellet",
+      "hoyde": 634,
+      "fylke": "Vestfold"
+    },
+    {
+      "navn": "Øksfjordjøkelen",
+      "hoyde": 1191,
+      "fylke": "Finnmark"
     }
   ]
 }
